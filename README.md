@@ -9,7 +9,7 @@ HOWTO:
 * The main script must be placed at "steamapps\common\Counter-Strike Global Offensive\LuaCSGO\LuaCSGO.lua". 
 * Additional scripts can be used but they must be included (require("LuaCSGO/CustomScriptName") by the main script.
 
-Checkout the example script at https://github.com/MarkHC/LuaCSGO/tree/master/Example
+Checkout the example script at https://github.com/zl950402/LuaCSGO/tree/master/Example
 
 
 TODO:
